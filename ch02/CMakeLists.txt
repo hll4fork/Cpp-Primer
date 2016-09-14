@@ -3,7 +3,7 @@
 #
 
 cmake_minimum_required(VERSION 3.2)
-project(ch01 CXX)
+project(ch02 CXX)
 
 # enable c++14
 list(APPEND CMAKE_CXX_FLAGS "-std=c++14")
